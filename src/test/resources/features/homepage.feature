@@ -1,6 +1,6 @@
 Feature: This is BSE india automation
 
-  @sanity5
+  @sanity51
   Scenario: Validate the list of language available at homepage
     Given user is at bse india homepage
     When user click on select language dropdown
